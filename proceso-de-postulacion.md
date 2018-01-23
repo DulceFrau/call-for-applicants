@@ -1,8 +1,8 @@
-Como mencionamos, una de tus responsabilidades es lograr que** las mejores postulantes al programa concluyan el proceso de postulación**. A continuación podrás el flujo del proceso de postulación. Podrás ver cuáles son las etapas por las cuales una postulante tiene que pasar. [En este blog](https://medium.com/laboratoria/todo-lo-que-siempre-quisiste-saber-sobre-el-proceso-de-selecci%C3%B3n-de-laboratoria-y-s%C3%AD-te-atreviste-531a62df8a0a) que escribimos a las postulantes puedes encontrar los detalles de cada una de ellas.
+Como mencionamos, una de tus responsabilidades es lograr que** las mejores postulantes al programa concluyan el proceso de postulación**. A continuación podrás el flujo del proceso de postulación. Podrás ver cuáles son las etapas por las cuales una postulante tiene que pasar. [En este blog](https://medium.com/laboratoria/todo-lo-que-siempre-quisiste-saber-sobre-el-proceso-de-selección-de-laboratoria-y-sí-te-atreviste-531a62df8a0a) que escribimos a las postulantes puedes encontrar los detalles de cada una de ellas.
 
 ![](/assets/flujo postulacion - Página 1.png)
 
-¿Cuáles son los desafíos para quienes lideramos la convocatoria con respecto al proceso?  
+¿Cuáles son los desafíos para quienes lideramos la convocatoria con respecto al proceso?
 
 1. Dar a concer el proceso: que todas las candidatas sepan qué deben hacer y por qué
 2. Que todas las postulantes concluyan el proceso de postulación.
@@ -39,7 +39,14 @@ Sí, llamar a las postulantes es parte del proceso. No es necesario que las llam
 
 > Recomendación: llama a las que estén más atrasadas en el proceso y monitorea cuál es el impacto de tus llamadas. Ej: después que la llamé ¿completó la línea base?
 
+---
 
+### CONTENIDOS PARA ESTA ETAPA
+
+* [Cómo es el proceso de postulación](https://medium.com/laboratoria/todo-lo-que-siempre-quisiste-saber-sobre-el-proceso-de-selecci%C3%B3n-de-laboratoria-y-s%C3%AD-te-atreviste-531a62df8a0a)
+* [1° etapa: registro ](https://medium.com/laboratoria/registro-primer-paso-para-entrar-a-laboratoria-8ed119abff08)
+* [2° etapa: examen](https://medium.com/laboratoria/segunda-etapa-de-selecci%C3%B3n-el-temido-examen-2fa2c693a469)
+* [3° etapa: pretrabajo](https://medium.com/laboratoria/tercera-etapa-qu%C3%A9-es-el-pre-trabajo-7c64d5019e7c)
 
 
 
