@@ -4,10 +4,11 @@ Este es un manual que busca ser una guía completa sobre cómo llevar a cabo una
 
 #### ¿Qué encontrarás en este espacio?
 
-1. Perfil de nuestras postulantes
-2. Paso a paso
-3. Contenido para postulantes
-4. Recomendaciones 
+* Perfil de nuestras postulantes
+* Paso a paso
+* Contenido para postulantes
+* Estrategias
+* Recomendaciones 
 
 ## LA CONVOCATORIA
 
@@ -28,9 +29,5 @@ Podríamos definir tres grandes acciones que debemos realizar durante convocator
 3. **LOGRAR QUE LA MAYOR CANTIDAD DE POSTULANTES TERMINEN EL PROCESO**
    1. Seguimiento intenso \(casi persecusión\)
 
-
-
 Dada ya la introducción, empezaremos por lo más importante que es el PERFIL DE NUESTRAS ALUMNAS.
-
-
 

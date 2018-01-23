@@ -5,7 +5,7 @@ Como mencionamos, una de tus responsabilidades es lograr que** las mejores postu
 ¿Cuáles son los desafíos para quienes lideramos la convocatoria con respecto al proceso?
 
 1. Dar a concer el proceso: que todas las candidatas sepan qué deben hacer y por qué
-2. Que todas las postulantes concluyan el proceso de postulación.
+2. Que todas las postulantes concluyan el proceso de postulación \(Disminuir % de deserción\)
 
 ---
 
@@ -43,12 +43,18 @@ Sí, llamar a las postulantes es parte del proceso. No es necesario que las llam
 
 ### CONTENIDOS PARA ESTA ETAPA
 
-* [Cómo es el proceso de postulación](https://medium.com/laboratoria/todo-lo-que-siempre-quisiste-saber-sobre-el-proceso-de-selecci%C3%B3n-de-laboratoria-y-s%C3%AD-te-atreviste-531a62df8a0a)
+* [Cómo es el proceso de postulación](https://medium.com/laboratoria/todo-lo-que-siempre-quisiste-saber-sobre-el-proceso-de-selección-de-laboratoria-y-sí-te-atreviste-531a62df8a0a)
 * [1° etapa: registro ](https://medium.com/laboratoria/registro-primer-paso-para-entrar-a-laboratoria-8ed119abff08)
-* [2° etapa: examen](https://medium.com/laboratoria/segunda-etapa-de-selecci%C3%B3n-el-temido-examen-2fa2c693a469)
-* [3° etapa: pretrabajo](https://medium.com/laboratoria/tercera-etapa-qu%C3%A9-es-el-pre-trabajo-7c64d5019e7c)
+* [2° etapa: examen](https://medium.com/laboratoria/segunda-etapa-de-selección-el-temido-examen-2fa2c693a469)
+* [3° etapa: pretrabajo](https://medium.com/laboratoria/tercera-etapa-qué-es-el-pre-trabajo-7c64d5019e7c)
+* [100 razones para aprender a programar](https://medium.com/laboratoria/100-razones-para-aprender-a-programar-en-laboratoria-1c019c739f04)
+* [Descripción detallada del programa](https://medium.com/laboratoria/laboratoria-descripci%C3%B3n-de-un-programa-que-cambiar%C3%A1-tu-vida-8c734fef5ced)
+* [7 formas en las que Laboratoria impactará tu vida](https://medium.com/laboratoria/6-formas-en-las-que-laboratoria-impactar%C3%A1-tu-vida-profesional-b2989d0f0336)
 
+Los links que vienen a continuación te servirán para monitorear cuantas postulantes hay en tu sede y qué etapas han completado. 
 
+* [Leads, línea base, examen](https://docs.google.com/spreadsheets/d/14MMhRrnmslsDIHPfTmXXQGRtspLx3iCQEPdCcpsDCRs/edit#gid=0)
+* [PreTrabajo](https://docs.google.com/spreadsheets/d/1NEouS-U8m9_u3dvYS3wHVFyg0YJpAgnrcRQa4poghEs/edit#gid=0)
 
 
 
