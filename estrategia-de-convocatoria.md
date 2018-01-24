@@ -8,9 +8,16 @@ A nivel regional, se realizará una estrategia de contenidos digitales para impu
 2. **Organiza al menos dos instancias informativas presenciales en el transcurso del 1° y 2° mes. **La idea es que las postulantes conozcan el aula, "le pongan cara" a Laboratoria y puedan solucionar sus dudas. Conocer físicamente genera más confianza y compromiso. En esta ocasión debes presentar qué es Laboratoria, cómo son las clases y cuál es el proceso de postulación. Si puedes invitar a una egresada o una profe que haya sido alumna, mejor. Puedes usar [esta presentación ](https://docs.google.com/presentation/d/1B_jTWFnCC8n7jbGudlRj6PHc9dNIEuEVmBtxK9fwLLg/edit#slide=id.g1d9884b5b0_0_215)como base.
 
 3. **Revisar diariamente "el funnel" de la convocatoria en tu sede.** Es decir, cuántas chicas se inscribieron, cuántas hicieron línea base, cuántas examen y cuántas el PreTrabajo. Esto te irá dando noción en qué etapa del proceso hay mayor deserción y debes poner más atención. Además, sabrás si estás cerca de alcanzar tu meta.  
-   En esta revisión que hagas, es importante que también revises cuál es el canal de convocatoria que más conversión tiene no solo a nivel de leads, sino de que canal vienen más postulantes que llegan a hacer el pretrabajo.   
+   En esta revisión que hagas, es importante que también revises cuál es el canal de convocatoria que más conversión tiene no solo a nivel de leads, sino de que canal vienen más postulantes que llegan a hacer el pretrabajo.  
    ![](/assets/ejemplo-funnel-conversion-gdl.png)  
-   Según este ejemplo, podemos concluir que utilizar las Redes Sociales y las Referencias de Otras personas son los canales que tenemos que potenciar durante nuestra convocatoria. Las preguntas que deberías hacerte a continuación serían: _¿cuáles son esas personas que dan referencias nuestras? ¿cómo pudo llegar a más personas como esas? ¿cuáles post y cuáles redes sociales funcionan mejor?._
+   Según este ejemplo, podemos concluir que utilizar las Redes Sociales y las Referencias de Otras personas son los canales que tenemos que potenciar durante nuestra convocatoria. Las preguntas que deberías hacerte a continuación serían: _¿cuáles son esas personas que dan referencias nuestras? ¿cómo pudo llegar a más personas como esas? ¿cuáles post y cuáles redes sociales funcionan mejor?.  
+  
+   _Siguiendo con el ejemplo de Guadalajara, para respondernos ¿cuáles son los mejores post? Le otorgamos a cada url parámetros distintos que nos permitieran reconocer de qué post exactamente viene cada postulante. Esta fue la información que pudimos obtener:  
+   ![](/assets/lead-por-post-gdld.png)  
+  
+   Puedes notar que la url que compartimos a 3° que nos apoyaron en la difusión de la convocatoria es la url que más postulantes ha traído. Es importante decir que siempre habrá postulaciones que no podemos trackear tan específicamente, pero debemos procurar que sean las mínimas.  
+  
+   Para poder saber el impacto que acciones offline o apariciones en medios tradicionales de comunicación tuvieron en la convocatoria, cuando las postulantes llenan Línea Base les pedimos que seleccionen de una lista de opciones, si corresponde, el medio por el cual nos conocieron.![](/assets/cuestionario-linea-base-GDL.png)
 
 
 
