@@ -2,11 +2,11 @@ La convocatoria comienza oficialmente 3 meses antes del primer día de clases de
 
 A nivel regional, se realizará una estrategia de contenidos digitales para impulsar la convocatoria y llegar a las personas que queremos llegar. Tú, desde tu sede, deberás:
 
-1. **Establece las metas de postulantes por etapa junto al City Director, Training Manager y el equipo de Selección.** 
+1. **Establece las metas de postulantes por etapa junto al City Director, Training Manager y el equipo de Selección.**
 
 2. **Contacta a las postulantes que no quedaron en el proceso de selección pasado.** Muchas chicas no culminaron el proceso de selección o quedaron fuera del mismo. A todas ellas puedes invitarlas a postular de nuevo, ya que luego de varios meses su situación puede haber cambiado y esto puede implicar que sean buenas candidatas para esta ocasión.
 
-3. **Contacta a las mujeres que han postulado antes de lanzar la convocatoria**. Son chicas que están esperando la noticia de que ya pueden avanzar en el proceso de postulación. En la selección SCL, LIM y CDMX 2017-2, quienes más avanzaron en el proceso de postulación fueron personas que habían postulado antes de tiempo.   
+3. **Contacta a las mujeres que han postulado antes de lanzar la convocatoria**. Son chicas que están esperando la noticia de que ya pueden avanzar en el proceso de postulación. En la selección SCL, LIM y CDMX 2017-2, quienes más avanzaron en el proceso de postulación fueron personas que habían postulado antes de tiempo.  
    ![](/assets/CANALES-.png)_MISSING: postulantes que aplicaron antes de lanzar convocatoria. _
 
 4. **Durante las primeras semanas, realizar rueda de prensa y asistencia a medios o eventos.** Lee y analiza el perfil de nuestras alumnas y, a partir de ahí, selecciona los medios y lugares físicos donde podrían estar. Lo que buscamos no es llegar a mucha gente, sino a las correctas. Es importante que cada acción que realices tenga su indicador de éxito, es la única manera para corroborar si tuvo éxito o no.  
@@ -28,6 +28,7 @@ A nivel regional, se realizará una estrategia de contenidos digitales para impu
 
 7. **Genera interacción en el Grupo de Facebook de tu sede.** Es importante que diariamente, como ya lo mencionamos antes, generes contenidos, brindes información sobre Laboratoria, resuelvas dudas e insistas en terminar el proceso de postulación.
 
-8. 
+8. **Contacta ex-alumnas para que compartan en sus redes la convocatoria.** Es probable que en sus círculos cercanos, hayan más mujeres con perfiles similares al de ella que estén buscando oportunidades laborales nuevas. 
+
 
 
