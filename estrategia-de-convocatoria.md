@@ -28,7 +28,7 @@ A nivel regional, se realizará una estrategia de contenidos digitales para impu
 
 7. **Genera interacción en el Grupo de Facebook de tu sede.** Es importante que diariamente, como ya lo mencionamos antes, generes contenidos, brindes información sobre Laboratoria, resuelvas dudas e insistas en terminar el proceso de postulación.
 
-8. **Contacta ex-alumnas para que compartan en sus redes la convocatoria.** Es probable que en sus círculos cercanos, hayan más mujeres con perfiles similares al de ella que estén buscando oportunidades laborales nuevas. 
+8. **Contacta ex-alumnas para que compartan en sus redes la convocatoria.** Es probable que en sus círculos cercanos, hayan más mujeres con perfiles similares al de ella que estén buscando oportunidades laborales nuevas.
 
 
 
