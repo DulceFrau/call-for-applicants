@@ -48,10 +48,10 @@ Sí, llamar a las postulantes es parte del proceso. No es necesario que las llam
 * [2° etapa: examen](https://medium.com/laboratoria/segunda-etapa-de-selección-el-temido-examen-2fa2c693a469)
 * [3° etapa: pretrabajo](https://medium.com/laboratoria/tercera-etapa-qué-es-el-pre-trabajo-7c64d5019e7c)
 * [100 razones para aprender a programar](https://medium.com/laboratoria/100-razones-para-aprender-a-programar-en-laboratoria-1c019c739f04)
-* [Descripción detallada del programa](https://medium.com/laboratoria/laboratoria-descripci%C3%B3n-de-un-programa-que-cambiar%C3%A1-tu-vida-8c734fef5ced)
-* [7 formas en las que Laboratoria impactará tu vida](https://medium.com/laboratoria/6-formas-en-las-que-laboratoria-impactar%C3%A1-tu-vida-profesional-b2989d0f0336)
+* [Descripción detallada del programa](https://medium.com/laboratoria/laboratoria-descripción-de-un-programa-que-cambiará-tu-vida-8c734fef5ced)
+* [7 formas en las que Laboratoria impactará tu vida](https://medium.com/laboratoria/6-formas-en-las-que-laboratoria-impactará-tu-vida-profesional-b2989d0f0336)
 
-Los links que vienen a continuación te servirán para monitorear cuantas postulantes hay en tu sede y qué etapas han completado. 
+Los links que vienen a continuación te servirán para monitorear cuantas postulantes hay en tu sede y qué etapas han completado.
 
 * [Leads, línea base, examen](https://docs.google.com/spreadsheets/d/14MMhRrnmslsDIHPfTmXXQGRtspLx3iCQEPdCcpsDCRs/edit#gid=0)
 * [PreTrabajo](https://docs.google.com/spreadsheets/d/1NEouS-U8m9_u3dvYS3wHVFyg0YJpAgnrcRQa4poghEs/edit#gid=0)
