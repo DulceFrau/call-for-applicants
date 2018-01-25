@@ -6,7 +6,9 @@ Aquí encontrarás la información que hemos obtenido más recientemente. Si tie
 
 **INFORMACIÓN OBTENIDA DE POSTULANTES ADMITIDAS AL BOOTCAMP 20172 SCL, CDMX, LIM.**
 
-![](/assets/resumen-perfil-alumnas.png)Como podrás notar, a grandes rasgos y en resumen, nuestras alumnas tienen entre los 27 años, han accedido a educación superior pero esta no les ha permitido acceder a buenos trabajos. Nuestras alumnas llegan a Laboratoria en busca de un cambio para su vida profesional. Esto puede servirte como base para entender al público al cual nos dirigimos. ![](/assets/areas-de-estudio-sel-20172.png)
+![](/assets/resumen-perfil-alumnas.png)Como podrás notar, a grandes rasgos y en resumen, nuestras alumnas tienen entre los 27 años, han accedido a educación superior pero esta no les ha permitido acceder a buenos trabajos. Nuestras alumnas llegan a Laboratoria en busca de un cambio para su vida profesional. Esto puede servirte como base para entender al público al cual nos dirigimos.
+
+![](/assets/areas-de-estudio-sel-20172.png)
 
 A continuación podrás ver el uso de Redes Sociales y Medios Tradicionales de Comunicación. Esto te servirá como guía para realizar acciones locales para atraer a las mejores postulantes.![](/assets/rrss-y-medios-de-comPORsede.png)[En este link](https://docs.google.com/spreadsheets/d/1XyFMxHlN2lxi5lXSSx69nLUFcuupsQWaJbTrqAa-gC8/edit#gid=0) podrás encontrar información sobre: radios, periódicos, canales de televisión e influencers que alumnas de cada sede siguen. Puede servirte como guía para armar tu estrategia de prensa.
 
