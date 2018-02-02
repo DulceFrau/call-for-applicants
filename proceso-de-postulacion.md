@@ -51,10 +51,5 @@ Sí, llamar a las postulantes es parte del proceso. No es necesario que las llam
 * [Descripción detallada del programa](https://medium.com/laboratoria/laboratoria-descripción-de-un-programa-que-cambiará-tu-vida-8c734fef5ced)
 * [7 formas en las que Laboratoria impactará tu vida](https://medium.com/laboratoria/6-formas-en-las-que-laboratoria-impactará-tu-vida-profesional-b2989d0f0336)
 
-Los links que vienen a continuación te servirán para monitorear cuantas postulantes hay en tu sede y qué etapas han completado.
-
-* [Leads, línea base, examen](https://docs.google.com/spreadsheets/d/14MMhRrnmslsDIHPfTmXXQGRtspLx3iCQEPdCcpsDCRs/edit#gid=0)
-* [PreTrabajo](https://docs.google.com/spreadsheets/d/1NEouS-U8m9_u3dvYS3wHVFyg0YJpAgnrcRQa4poghEs/edit#gid=0)
-
 
 
