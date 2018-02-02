@@ -12,9 +12,9 @@ Aquí encontrarás la información que hemos obtenido más recientemente. Si tie
 
 ![](/assets/situacion-laboral.png)
 
-A continuación podrás ver el uso de Redes Sociales y Medios Tradicionales de Comunicación. Esto te servirá como guía para realizar acciones locales para atraer a las mejores postulantes.![](/assets/rrss-y-medios-de-comPORsede.png)[En este link](https://docs.google.com/spreadsheets/d/1XyFMxHlN2lxi5lXSSx69nLUFcuupsQWaJbTrqAa-gC8/edit#gid=0) podrás encontrar información sobre: radios, periódicos, canales de televisión e influencers que alumnas de cada sede siguen. Puede servirte como guía para armar tu estrategia de prensa.
+A continuación podrás ver el uso de Redes Sociales y Medios Tradicionales de Comunicación. Esto te servirá como guía para realizar acciones locales para atraer a las mejores postulantes.![](/assets/rrss-y-medios-de-comPORsede.png)En este link podrás encontrar información sobre: radios, periódicos, canales de televisión e influencers que alumnas de cada sede siguen. Puede servirte como guía para armar tu estrategia de prensa.
 
-El cuadro que verás a continuación muestra cuáles son los canales que mejor conversión tienen en la convocatoria. No solamente cuántos leads genera, sino cuántos de esos leads llegan finalmente a ser alumnas de Laboratoria. La fila llamada "MISSING" hace referencia a mujeres que postularon antes de que lanzáramos oficialmente la convocatoria:![](/assets/CANALES-.png)
+El cuadro que verás a continuación muestra cuáles son los canales que mejor conversión tienen en la convocatoria. No solamente cuántos leads genera, sino cuántos de esos leads llegan finalmente a ser alumnas de Laboratoria.![](/assets/conversion-por-canales.png)
 
 Es importante que a lo largo de la convocatoria te plantees hipótesis que puedas ir comprobando durante el proceso de selección. Por ejemplo:
 
