@@ -20,6 +20,8 @@ Como podrás notar, a grandes rasgos y en resumen, nuestras alumnas tienen entre
 
 ![](/assets/uso-de-rrss.png)
 
+![](/assets/uso-de-medios-de-comunicacion-tradicional.png)
+
 [En este link](https://docs.google.com/spreadsheets/d/1XyFMxHlN2lxi5lXSSx69nLUFcuupsQWaJbTrqAa-gC8/edit?pli=1#gid=0) podrás encontrar información sobre: radios, periódicos, canales de televisión e influencers que alumnas de cada sede siguen. Puede servirte como guía para armar tu estrategia de prensa.
 
 El cuadro que verás a continuación muestra cuáles son los canales que mejor conversión tienen en la convocatoria. No solamente cuántos leads genera, sino cuántos de esos leads llegan finalmente a ser alumnas de Laboratoria.![](/assets/conversion-por-canales.png)
