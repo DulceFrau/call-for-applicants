@@ -31,6 +31,11 @@ A nivel regional, se realizará una estrategia de contenidos digitales para impu
 
 9. **Solicita a egresadas y alumnas actuales compartir la convocatoria en sus redes.** Es muy probable que en su círculo cercana hayan más mujeres con un perfil similar a ella que puedan postular. Además, su experiencia puede impulsar a sus amigas a seguir su ejemplo.
 
-10. 
+10. ** Llama a las postulantes, les encanta e impulsa nuestros números. **Dos semanas antes de que termine la convocatoria, te recomendamos llamar a aquellas postulantes que tienen pendiente realizar el prework. De esta manera generarás presión para que lo terminan y podrás conocer cuáles son las razones para no haberlo hecho antes. Es posible que encuentres inputs para mejorar nuestra convocatoria. Sabemos que no es tan agradable llamar, pero es importante que lo hagas.
+
+> > > > > > > ![](https://media.giphy.com/media/36wdaxsOfaN5C/giphy.gif)
+
+
+
 
 
