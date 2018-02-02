@@ -29,6 +29,8 @@ A nivel regional, se realizará una estrategia de contenidos digitales para impu
 
 8. **Contacta ex-alumnas para que compartan en sus redes la convocatoria.** Es probable que en sus círculos cercanos, hayan más mujeres con perfiles similares al de ella que estén buscando oportunidades laborales nuevas. La lista de postulantes a quienes nos gustaría volver a invitar, te la compartiremos para evitar que alumnas que tuvieron un "mal desempeño"  vuelvan a hacerlo.
 
-9. 
+9. **Solicita a egresadas y alumnas actuales compartir la convocatoria en sus redes.** Es muy probable que en su círculo cercana hayan más mujeres con un perfil similar a ella que puedan postular. Además, su experiencia puede impulsar a sus amigas a seguir su ejemplo.
+
+10. 
 
 
