@@ -34,3 +34,5 @@ Es importante que a lo largo de la convocatoria te plantees hipótesis que pueda
 
 De esta manera, con data, podremos ir agregando detalles al perfil de nuestras alumnas. Recordemos también que por cada sede pueden haber diferencias significativas.
 
+Toda la info de los perfiles, puedes encontrarla [en este link](https://docs.google.com/spreadsheets/d/19x_FJqY2r6bKFCwK98c-SAvm7Q2hXB3FUYQKZt2I3II/edit#gid=1664509933)
+
