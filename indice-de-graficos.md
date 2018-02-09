@@ -32,5 +32,9 @@ Aquí te dejamos el índice de gráficos y contenidos que hay en el manual, para
 
    3. Ejemplo de gráfico de leads por canal de convocatoria en Línea Base de Guadalajara
 
+4. **Cómo dejar comentarios:** encontrarás el paso a paso para dejar comentarios y recomendaciones en el manual
+
+   1. Imagen con el paso a paso para dejar comentarios
+
 
 
