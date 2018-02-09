@@ -4,7 +4,5 @@ Lo primero que debes hacer es iniciar sesión en [GitBook ](https://www.gitbook.
 
 ![](/assets/como-dejar-comentarios-GITBOOK.png)
 
-Una vez que hagas el comentario, llegará un mail a la persona responsable de este documento \(Dulce\). Cuando exista una respuesta, también te llegará un mail a ti. Otra manera de darle seguimiento a estas conversaciones es a través de tu perfil de GitBook. A continuación podrás ver cómo hacerlo:
-
-
+Una vez que hagas el comentario, llegará un mail a la persona responsable de este documento \(Dulce\). Cuando exista una respuesta, también te llegará un mail a ti. Otra manera de darle seguimiento a estas conversaciones es directamente en el texto, en el párrafo donde dejaste tus comentarios.
 
