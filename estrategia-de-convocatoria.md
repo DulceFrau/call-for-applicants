@@ -4,7 +4,7 @@ A nivel regional, se realizará una estrategia de contenidos digitales para impu
 
 1. **Establece las metas de postulantes por etapa junto al City Director, Training Manager y el equipo de Selección.**
 
-2. **Contacta a las postulantes que no quedaron en el proceso de selección pasado.** Muchas chicas no culminaron el proceso de selección o quedaron fuera del mismo. A todas ellas puedes invitarlas a postular de nuevo, ya que luego de varios meses su situación puede haber cambiado y esto puede implicar que sean buenas candidatas para esta ocasión.
+2. **Contacta a las postulantes que no quedaron en el proceso de selección pasado.** Muchas chicas no culminaron el proceso de selección o quedaron fuera del mismo. A todas ellas puedes invitarlas a postular de nuevo, ya que luego de varios meses su situación puede haber cambiado y esto puede implicar que sean buenas candidatas para esta ocasión. [En este link encontrarás el listado con todas ellas.](https://docs.google.com/spreadsheets/d/1bS6Kc0eRJItSIjeBOdbC7DVVZ6uX7uSZYzQhXehKDJs/edit#gid=0)
 
 3. **Contacta a las mujeres que han postulado antes de lanzar la convocatoria**. Son chicas que están esperando la noticia de que ya pueden avanzar en el proceso de postulación. La conversión de personas que postulan antes de que la convocatoria haya iniciado, es similar e incluso a veces mayor, que la de quienes postulan una vez hayamos iniciado nuestra campaña.
 
